@@ -1,4 +1,4 @@
-print("LORA Simulation Code")
+print("LoRa Node  Code")
 
 
 import serial
